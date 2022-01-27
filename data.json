@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1641355510000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson",
+        "title": "USGS Significant Earthquakes, Past Month",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 11
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.2,
+                "place": "64 km E of Hualien City, Taiwan",
+                "time": 1641203196794,
+                "updated": 1641300390493,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g8n3",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000g8n3.geojson",
+                "felt": 62,
+                "cdi": 5.4,
+                "mmi": 4.487,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 625,
+                "net": "us",
+                "code": "7000g8n3",
+                "ids": ",us7000g8n3,",
+                "sources": ",us,",
+                "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.611,
+                "rms": 0.73,
+                "gap": 67,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.2 - 64 km E of Hualien City, Taiwan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.2352,
+                    23.9968,
+                    28.71
+                ]
+            },
+            "id": "us7000g8n3"
+}
